@@ -7,18 +7,18 @@ to load the module. This tool generates such a page.
 
 #### Installing
 
-```
+```bash
 # from local checkout
 cargo install --path .
 # alternatively, from git
-cargo install --git
+cargo install --git https://github.com/ibaryshnikov/tgenw
 ```
 
 #### Usage
 
 There's no flags, just run
 
-```
+```bash
 tgenw
 ```
 
