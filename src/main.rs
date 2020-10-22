@@ -21,7 +21,7 @@ br#"<!DOCTYPE html>
 "#;
 
 const JS: &[u8] =
-br#"import init from "pkg/progect.js";
+br#"import init from "pkg/index.js";
 
 window.addEventListener("load", async () => {
     await init();
