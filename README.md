@@ -16,10 +16,10 @@ cargo install --git https://github.com/ibaryshnikov/tgenw
 
 #### Usage
 
-There's no flags, just run
+There're no flags, just run
 
 ```bash
 tgenw
 ```
 
-It will produce `index.html` and `main.js`
+it will produce `index.html` and `main.js`
